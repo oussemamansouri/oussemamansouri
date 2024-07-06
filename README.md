@@ -19,6 +19,6 @@ I'm a passionate Full Stack Developer specializing in modern web technologies. M
 - [Email](mailto:oussama.mansouri@issatm.ucar.tn)
 
 ### 🌟 About Me
-With a strong foundation in both front-end and back-end development, I enjoy creating seamless user experiences and efficient server-side logic. I am always eager to learn new technologies and take on challenging projects.
+With a strong foundation in both front-end and back-end development, I enjoy creating seamless user experiences and efficient server-side and client-side logic. I am always eager to learn new technologies and take on challenging projects.
 
 Feel free to check out my repositories and get in touch if you have any questions or collaboration ideas!
