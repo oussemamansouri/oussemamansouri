@@ -24,7 +24,7 @@ With a strong foundation in both front-end and back-end development, I enjoy cre
 Feel free to check out my repositories and get in touch if you have any questions or collaboration ideas!
 ###
 <div align="center">
-  <h3>Profile Views</h3>
+  <h3>Profile views</h3>
   <img src="https://profile-counter.glitch.me/oussemamansouri/count.svg?"  />
 </div>
 
