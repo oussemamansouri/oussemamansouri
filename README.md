@@ -14,10 +14,6 @@ I'm a passionate Full Stack Developer specializing in modern web technologies. M
 ### 🚀 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oussemamansouri&layout=compact&theme=radical)
 
-### 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oussemamansouri&repo=Connected)](https://[github.com/oussemamansouri/Connected](https://github.com/oussemamansouri/Connected/tree/main))
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oussemamansouri&repo=Mandra)](https://[github.com/oussemamansouri/Mandra](https://github.com/oussemamansouri/Mandra))
-
 ### 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/mansouri-oussama)
 - [Email](mailto:oussama.mansouri@issatm.ucar.tn)
