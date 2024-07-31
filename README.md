@@ -10,6 +10,10 @@ I'm a passionate Full Stack Developer specializing in modern web technologies. M
 
 ### 📈 GitHub Stats
 ![Oussema's GitHub stats](https://github-readme-stats.vercel.app/api?username=oussemamansouri&show_icons=true&theme=radical)
+<div>
+  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=oussemamansouri&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussemamansouri&layout=compact&theme=radical" />
+</div>
 
 ### 🚀 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oussemamansouri&layout=compact&theme=radical)
