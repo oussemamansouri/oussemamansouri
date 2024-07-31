@@ -2,9 +2,9 @@
 
 I'm a passionate Full Stack Developer specializing in modern web technologies. My expertise includes Angular, Node.js, Spring Boot, and Bootstrap, enabling me to build scalable and efficient applications.
 
-
-<img style=" width:100%;" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-developer.gif" alt="full stack developer image">
-
+<div style="width: 100%;">
+  <img style="width: 100%;" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-developer.gif" alt="full stack developer image">
+</div>
 
 ### 🛠️ Technologies & Tools
 - **Frontend:** Angular, Bootstrap, HTML, CSS, JavaScript, TypeScript
