@@ -1,8 +1,7 @@
 ## Hi there, I'm Oussema Mansouri 👋
 
 <div style="text-align: justify;">
-I'm a passionate Full Stack Developer specializing in modern web technologies. My expertise includes Angular, Node.js, Spring Boot, and Bootstrap, enabling me to build scalable and efficient applications.
-With a strong foundation in both front-end and back-end development, I enjoy creating seamless user experiences and efficient server-side logic. I am always eager to learn new technologies and take on challenging projects.
+I'm a passionate Full Stack Developer with a strong focus on modern web technologies, including Angular, Node.js, Spring Boot, and Bootstrap. My skillset enables me to design and build scalable, efficient applications, delivering seamless user experiences alongside robust server-side logic. With a deep understanding of both front-end and back-end development, I am committed to continuous learning and thrive on tackling complex, challenging projects that drive innovation.
 </div>
 
 
