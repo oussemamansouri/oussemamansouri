@@ -1,7 +1,7 @@
 ## Hi there, I'm Oussema Mansouri 👋
 
 <div style="text-align: justify;">
-I'm a passionate Full Stack Developer with a strong focus on modern web technologies, including Angular, Node.js, Spring Boot, and Bootstrap. My skillset enables me to design and build scalable, efficient applications, delivering seamless user experiences alongside robust server-side logic. With a deep understanding of both front-end and back-end development, I am committed to continuous learning and thrive on tackling complex, challenging projects that drive innovation.
+I am a versatile Full Stack Developer with expertise in Angular, Spring Boot, and Node.js, complemented by a strong foundation in data science and a keen interest in DevOps practices. I excel in designing and developing high-performance web applications that are both interactive and user-centric, driving engagement and delivering measurable results. With a passion for innovation and problem-solving, I continuously refine my skills and adopt emerging technologies to deliver scalable and efficient solutions. My dedication to excellence and collaborative mindset make me a valuable asset in crafting modern, impactful digital experiences.
 </div>
 
 ![full stack developer image](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-developer.gif)
