@@ -10,7 +10,9 @@ I am a versatile Full Stack Developer with expertise in Angular, Spring Boot, an
 - **Frontend:** Angular, Bootstrap, HTML, CSS, JavaScript, TypeScript
 - **Backend:** Node.js, Spring Boot, Express.js, Java
 - **Databases:** MySQL, MongoDB, PostgreSQL
-- **Others:** Git, Docker, REST APIs
+- **DevOps Tools:** Docker, Jenkins, Kubernetes, Vagrant, SonarQube, Nexus, Prometheus, Grafana
+- **AI & Data Science:** Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook
+- **Others:** Git, GitHub, REST APIs
 
 ### 📈 GitHub Stats & Top Languages 
 <div>
