@@ -21,7 +21,7 @@ I am a versatile Full Stack Developer with a solid foundation in web development
 </div>
 
 ### 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/mansouri-oussama)
+- [LinkedIn](https://www.linkedin.com/in/mansouri-oussema/)
 - [Email](mailto:oussama.mansouri@issatm.ucar.tn)
 
 Feel free to check out my repositories and get in touch if you have any questions or collaboration ideas!
