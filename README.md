@@ -7,7 +7,7 @@ I am a versatile Full Stack Developer with a solid foundation in web development
 ![full stack developer image](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-developer.gif)
 
 ### 🛠️ Technologies & Tools
-- **Frontend:** Angular, Bootstrap, HTML, CSS, JavaScript, TypeScript
+- **Frontend:** Angular, React, Bootstrap, HTML, CSS, JavaScript, TypeScript
 - **Backend:** Node.js, Spring Boot, Express.js, Java
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **DevOps Tools:** Docker, Jenkins, Kubernetes, Vagrant, SonarQube, Nexus, Prometheus, Grafana
