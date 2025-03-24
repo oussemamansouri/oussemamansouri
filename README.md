@@ -11,7 +11,7 @@ I am a versatile Full Stack Developer with a solid foundation in web development
 - **Backend:** Node.js, Spring Boot, Express.js, Java
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **DevOps Tools:** Docker, Jenkins, Kubernetes, Vagrant, SonarQube, Nexus, Prometheus, Grafana
-- **AI & Data Science:** Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook
+- **AI & Data Science:** Python, Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV, CNN, Jupyter Notebook
 - **Others:** Git, GitHub, REST APIs
 
 ### 📈 GitHub Stats & Top Languages 
